@@ -1,14 +1,14 @@
 {
-  "name": "ALIZA-Bot",
+  "name": "SPIRIT-SER-Bot",
   "version": "2.0.0",
-  "description": "ALIZA whatsapp bot provides a bunch of bgms and features to your whatsapp account.",
-  "main": "./Miss-Aliza/bot.js",
+  "description": "SPIRIT SER whatsapp bot provides a bunch of bgms and features to your whatsapp account.",
+  "main": "./SPIRIT-SER/bot.js",
   "scripts": {
     "start": "supervisor -s bot.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nishadahammed/Miss-Aliza.git"
+    "url": "git+https://github.com/SPlRlT-YT/SPIRIT-SER.git"
   },
   "keywords": [
     "WhatsApp",
@@ -19,7 +19,7 @@
   "developer": "Ameer suhail / @phaticusthiccy",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/nishadahammed/Miss-Aliza/issues"
+    "url": "https://github.com/SPlRlT-YT/SPIRIT-SER/issues"
   },
   "homepage": "https://github.com/phaticusthiccy/WhatsAsenaDuplicated#readme",
   "dependencies": {
