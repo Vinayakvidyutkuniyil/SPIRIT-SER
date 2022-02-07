@@ -1,6 +1,7 @@
-<p align="center">
-<img src="Miss Aliza.jpg" alt="google-font" border="0"></a>
-</p>
+<div align="center">
+  <p align="center">
+<img src=https://i.imgur.com/oogzAR2.png>
+</p
 
 <div align="center
 <div align="center"
