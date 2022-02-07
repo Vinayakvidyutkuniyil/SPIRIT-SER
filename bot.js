@@ -139,7 +139,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
         });
 
         console.log(
-            chalk.green.bold('💓 ALIZA BOT IS  working!')
+            chalk.green.bold('💓 SPIRIT SER BOT IS  working!')
         );
         await new Promise(r => setTimeout(r, 1100));
 
@@ -383,8 +383,8 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                                     'Gerçekleşen Hata: ' + error + '\n\n'
                                     , MessageType.text);
                             } else {
-                                await conn.sendMessage(conn.user.jid, '*~_________~ *ALIZA BOT ERROR FOUND☢️!* ~______~*' +
-                                    '\n\n*🧞‍♂️ ' + error + '*\n\n```Max Error oyvakkan join cheyyu  https://chat.whatsapp.com/BnaB7uA4dQF8Qhcac3bGWE``` ' 
+                                await conn.sendMessage(conn.user.jid, '*~_________~ *SPIRIT SER BOT ERROR FOUND☢️!* ~______~*' +
+                                    '\n\n*🧞‍♂️ ' + error + '*\n\n```Max Error oyvakkan join cheyyu  https://chat.whatsapp.com/F3adhxvYpd3KzVptzDxhC4``` ' 
                                     , MessageType.text);
                             }
                         }
