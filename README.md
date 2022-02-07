@@ -34,7 +34,7 @@ Project created by <a href="https://github.com/SPlRlT-YT">SPIRIT-SER</a> to make
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@SPlRlTFF/SPIRIT-SER)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/nishadahammed/Miss-Aliza.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SPlRlT-YT/SPIRIT-SER.git)
 
      
 <br>
