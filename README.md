@@ -7,15 +7,16 @@
 <div align="center"
 
 
-[![ALIZA](https://i.imgur.com/kF5SpFM.jpeg?size=100000)](https://github.com/ANUSER1)
+[![SPIRIT](https://i.imgur.com/ZknPTZG.jpeg?size=100000)](https://github.com/ANUSER1)
 
-## [![ALIZA](https://readme-typing-svg.herokuapp.com?font=Road+Rage&color=0000FF&lines=🆆︎🅴︎🅻︎🅲︎🅾︎🅼︎🅴︎+🅃🄾+🅰🅻🅸🆉🅰+🅆🄰+🅱︎🅾︎🆃︎+🅁🄴🄿🄾;🅲︎🆁︎🅴︎🅰︎🆃︎🅴︎🅳︎+🄱🅈+🆆🅷🅸🆃🅴🆂🅴🆁+;🅃🄷🄸🅂+🅸︎🆂︎+🅃🄷🄴+🅱︎🅴︎🆂︎🆃︎+🄱🄶🄼+🅱︎🅾︎🆃︎;🅆🄸🅃🄷+🅼︎🅾︎🆁︎🅴︎+🄵🄴🄰🅄🅃🄴🅁🅂)](https://bit.ly/2VM4lxF)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F7000&lines=WELCOME+TO+SPIRIT+SER+WA+BOT+REPO;CREATED+BY+SPIRIT+SRR;THIS+IS+A+USERBOT+PRIVATE+AND+PUBLIC+BOT;WITH+MORE+FEATHERS)](https://git.io/typing-svg)
+
 
 
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/nishadahammed">WHITE-SER</a> to make it public
+Project created by <a href="https://github.com/SPlRlT-YT">SPIRIT-SER</a> to make it public
     <br>
        | © |
         Reserved |
@@ -44,8 +45,8 @@ Project created by <a href="https://github.com/nishadahammed">WHITE-SER</a> to m
 ```
 Due to Whatsapp bot; Your WhatsApp account may be banned.
 This is an open source project, you are responsible for everything you do. 
-Absolutely, MISS ALIZA BOT executives do not accept responsibility.
-By establishing the MISS ALIZA BOT, you are deemed to have accepted these responsibilities.
+Absolutely, SPIRIT SER BOT executives do not accept responsibility.
+By establishing the SPIRIT SER BOT, you are deemed to have accepted these responsibilities.
 ```
 
         
