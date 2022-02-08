@@ -7,7 +7,7 @@
 <div align="center"
 
 
-[![SPIRIT](https://i.imgur.com/ZknPTZG.jpeg?size=100000)](https://github.com/ANUSER1)
+[![SPIRIT](https://i.imgur.com/Mbaz2g9.jpg?size=100000)](https://github.com/ANUSER1)
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F7000&lines=WELCOME+TO+SPIRIT+SER+WA+BOT+REPO;CREATED+BY+SPIRIT+SRR;THIS+IS+A+USERBOT+PRIVATE+AND+PUBLIC+BOT;WITH+MORE+FEATHERS)](https://git.io/typing-svg)
 
