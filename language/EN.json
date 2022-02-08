@@ -75,7 +75,7 @@
             "RESTART_DESC": "ʀᴇsᴛᴀʀᴛɪɴɢ ᴀʟɪᴢᴀ ʙᴏᴛ",
             "RESTART_MSG": "```ʀᴇsᴛᴀʀᴛɪɴɢ...😈```",
             "SHUTDOWN_DESC": "sʜᴜᴛᴛɪɴɢ ᴅᴏᴡɴ",
-            "SHUTDOWN_MSG": "```ᴀʟɪᴢᴀ ʙᴏᴛ ɪs ᴏғғ 😴```",
+            "SHUTDOWN_MSG": "```sᴘɪʀɪᴛ sᴇʀ ʙᴏᴛ ɪs ᴏғғ 😴```",
             "DYNO_DESC": "Check heroku dyno usage",
             "DYNO_TOTAL": "```Total Quota```",
             "DYNO_USED": "```Quota used```",
@@ -216,14 +216,14 @@
         },
         "updater": {
             "UPDATER_DESC": "Checks the update.",
-            "UPDATE": "🄰🄻🄸🅉🄰 🄱🄾🅃 🄸🅂 🅄🄿 🅃🄾 🄳🄰🅃🄴!*",
-            "NEW_UPDATE": "*🄰🄻🄸🅉🄰 𝐁𝐎𝐓𝐈𝐍𝐔 𝐔𝐏𝐃𝐀𝐓𝐄 𝐔𝐍𝐃*\n\n please ask owner and updating. Otherwise chance to get error\n Max Error oyvakkan join cheyyu \n https://chat.whatsapp.com/BnaB7uA4dQF8Qhcac3bGWE \n\nChanges:\n```",
+            "UPDATE": "sᴘɪʀɪᴛ sᴇʀ  ʙᴏᴛ ɪs ᴜᴘ ᴛᴏ ᴅᴀᴛᴇ!",
+            "NEW_UPDATE": "𝐒𝐏𝐈𝐑𝐈𝐓 𝐒𝐄𝐑  𝐁𝐎𝐓𝐈𝐍𝐔 𝐔𝐏𝐃𝐀𝐓𝐄 𝐔𝐍𝐃\n\n please ask owner and updating. Otherwise chance to get error\n Max Error oyvakkan join cheyyu \n https://chat.whatsapp.com/BnaB7uA4dQF8Qhcac3bGWE \n\nChanges:\n```",
             "UPDATE_NOW_DESC": "It makes updates.",
-            "UPDATING": "```*ᴍɪss ᴀʟɪᴢᴀ ʙᴏᴛ ɪs ᴜᴘᴅᴀᴛɪɴɢ*..💛```",
+            "UPDATING": "```sᴘɪʀɪᴛ sᴇʀ ʙᴏᴛ ɪs ᴜᴘᴅᴀᴛɪɴɢ..✨```",
             "INVALID_HEROKU": "*❌ Your Heroku information is wrong!*",
-            "UPDATED": "*ᴍɪss ᴀʟɪᴢᴀ ʙᴏᴛ ɪs ᴜᴘᴅᴀᴛᴇᴅ* 🤠✅",
-            "UPDATED_LOCAL": "✅ *Successfully Updated*!",
-            "AFTER_UPDATE": "😎 *𝑹𝑬𝑺𝑻𝑨𝑹𝑻𝑰𝑵𝑮 𝑾𝑰8 1𝑴𝑰𝑵 𝑷𝑰𝑫𝑰𝑲𝑲𝑼𝑴*"
+            "UPDATED": "sᴘɪʀɪᴛ sᴇʀ ʙᴏᴛ ɪs ᴜᴘᴅᴀᴛᴇᴅ 🤠✅",
+            "UPDATED_LOCAL": "✅ *Successfully Updated!",
+            "AFTER_UPDATE": "😎 𝑹𝑬𝑺𝑻𝑨𝑹𝑻𝑰𝑵𝑮 𝑾𝑰8 1𝑴𝑰𝑵 𝑷𝑰𝑫𝑰𝑲𝑲𝑼𝑴"
         },
         "weather": {
             "WEATHER_DESC": "Shows the weather.",
