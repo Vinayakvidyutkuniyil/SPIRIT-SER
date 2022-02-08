@@ -10,15 +10,21 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: "Gives github link of the
     var skl = await axios.get("https://i.imgur.com/Mbaz2g9.jpg", { responseType: 'arraybuffer' })
 
     await message.sendMessage(Buffer(skl.data), MessageType.image, {mimetype: Mimetype.png, caption: `sᴘɪʀɪᴛ sᴇʀ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ sᴘɪʀɪᴛ sᴇʀ
-Creator number 👉: wa.me/17098008221
+ᴄʀᴇᴀᴛᴏʀ ɴᴜᴍʙᴇʀ: wa.me/917994093863
 
-Githublink (Setup)  👇:    https://github.com/nishadahammed/Miss-Aliza
+Tʜɪs ʙᴏᴛ Oᴡɴᴇʀ Nᴀᴍᴇ : 💝sᴘɪʀɪᴛ Sᴇʀ Bᴏᴛ ➪ Sᴘɪʀɪᴛ💝
 
-DEPLOYE  👇:  https://heroku.com/deploy?template=https://github.com/nishadahammed/Miss-Aliza.git
+sᴘɪʀɪᴛ ʙᴏᴛ ɢʀᴏᴜᴘ: https://chat.whatsapp.com/F3adhxvYpd3KzVptzDxhC4
 
-PUBLIC BOT GROUP 👇: https://chat.whatsapp.com/BnaB7uA4dQF8Qhcac3bGWE
+Gɪᴛʜᴜʙ ʟɪɴᴋ:  https://github.com/SPlRlT-YT/SPIRIT-SER
 
+Aᴜᴅɪᴏ ᴄᴏᴍᴍᴀᴅᴇ :   https://github.com/SPlRlT-YT/SPIRIT-SER/tree/master/uploads
 
+Sᴛɪᴄᴋᴇʀ ᴄᴏᴍᴍᴀᴅᴇ: https://github.com/SPlRlT-YT/SPIRIT-SER/tree/master/spiritser
+
+Cʜᴀɴɴᴇʟ :  https://youtube.com/channel/UCBv1Z1zkOmdGeWU2QRdYBnA
+
+💝sᴘɪʀɪᴛ Sᴇʀ Bᴏᴛ Cʀᴇᴀᴛᴇᴅ Bʏ Sᴘɪʀɪᴛ Sᴇʀ 💝
 `}) 
 
 }));
