@@ -7,9 +7,9 @@ const Lang = Language.getString('wallpaper');
 
 Asena.addCommand({pattern: 'git', fromMe: false, desc: "Gives github link of the bot"}, (async (message, match) => {
 
-    var skl = await axios.get("https://i.imgur.com/kF5SpFM.jpeg", { responseType: 'arraybuffer' })
+    var skl = await axios.get("https://i.imgur.com/Mbaz2g9.jpg", { responseType: 'arraybuffer' })
 
-    await message.sendMessage(Buffer(skl.data), MessageType.image, {mimetype: Mimetype.png, caption: `ᴀʟɪᴢᴀ 𝒃𝒐𝒕 𝒄𝒓𝒆𝒂𝒕𝒆𝒅 𝒃𝒚 𝒂𝒏𝒔𝒉𝒊𝒅
+    await message.sendMessage(Buffer(skl.data), MessageType.image, {mimetype: Mimetype.png, caption: `sᴘɪʀɪᴛ sᴇʀ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ sᴘɪʀɪᴛ sᴇʀ
 Creator number 👉: wa.me/17098008221
 
 Githublink (Setup)  👇:    https://github.com/nishadahammed/Miss-Aliza
