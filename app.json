@@ -24,7 +24,7 @@
          "BGM_DURATION": {
             "description": "FUNY BGM DURATION",
             "required": false,
-            "value": "100"
+            "value": "39999600"
          },
          "TALKING_BOT": {
             "description": "Hesabınızı bir Chatbot'a Çevirin! Turn your account into a chatbot!",
